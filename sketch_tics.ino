@@ -1,6 +1,6 @@
 int estado = 0; //variables que necesitaremos
-int r1 = 7;
-int r2 = 6;
+int r1 = 8;
+int r2 = 7;
 
 void setup() {
     Serial.begin(9600);  //activamos el monitor serial
